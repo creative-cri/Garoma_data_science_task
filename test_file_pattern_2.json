@@ -1,0 +1,233 @@
+[
+    {
+        "model": "m1",
+        "section_name": "",
+        "items": [
+            {
+                "name": "Insalata Verde",
+                "description": "",
+                "ingredients": [
+                    "Eisbergsalat",
+                    " Gurken",
+                    " Mais",
+                    " Rucola"
+                ],
+                "price_raw": "3,00 €",
+                "price": 3.0
+            },
+            {
+                "name": "Insalata Verde",
+                "description": "",
+                "ingredients": [
+                    "Eisbergsalat",
+                    " Gurken",
+                    " Mais",
+                    " Rucola"
+                ],
+                "price_raw": "4,00 €",
+                "price": 4.0
+            },
+            {
+                "name": "Insalata di Pomodori",
+                "description": "",
+                "ingredients": [
+                    "Tomaten",
+                    " Zwiebeln"
+                ],
+                "price_raw": "4,00 €",
+                "price": 4.0
+            },
+            {
+                "name": "Insalata Mista",
+                "description": "",
+                "ingredients": [
+                    "gemischter Salat",
+                    " Mais"
+                ],
+                "price_raw": "6,00 €",
+                "price": 6.0
+            },
+            {
+                "name": "Insalata Italiana",
+                "description": "",
+                "ingredients": [
+                    "gemischter Salat",
+                    " Mais",
+                    " Zwiebeln",
+                    " Schinken",
+                    " Ei",
+                    " Käse"
+                ],
+                "price_raw": "6,50 €",
+                "price": 6.5
+            },
+            {
+                "name": "Insalata Nizza",
+                "description": "",
+                "ingredients": [
+                    "gemischter Salat",
+                    " Gurken",
+                    " Zwiebeln",
+                    " Schinken",
+                    " Ei",
+                    " Käse",
+                    " Thunfisch",
+                    " Oliven",
+                    " Mais"
+                ],
+                "price_raw": "7,50 €",
+                "price": 7.5
+            },
+            {
+                "name": "Insalata Caprese",
+                "description": "",
+                "ingredients": [
+                    "Tomaten",
+                    " Mozzarella"
+                ],
+                "price_raw": "8,00 €",
+                "price": 8.0
+            },
+            {
+                "name": "City Salat",
+                "description": "",
+                "ingredients": [
+                    "gemischter Salat",
+                    " Gurken",
+                    " Peperoni",
+                    " Paprika",
+                    " Zwiebeln",
+                    " Ananas",
+                    " Shrimps"
+                ],
+                "price_raw": "8,50 €",
+                "price": 8.5
+            },
+            {
+                "name": "Chicken Salat",
+                "description": "",
+                "ingredients": [
+                    "gemischter Salat",
+                    " panierte Chicken-Streifen",
+                    " Käse"
+                ],
+                "price_raw": "8,50 €",
+                "price": 8.5
+            },
+            {
+                "name": "Bauernsalat",
+                "description": "",
+                "ingredients": [
+                    "gemischter Salat",
+                    " Zwiebeln",
+                    " Gurken",
+                    " Tomaten",
+                    " Oliven",
+                    " Schafskäse"
+                ],
+                "price_raw": "5,50 €",
+                "price": 5.5
+            },
+            {
+                "name": "Mexikanischer Salat",
+                "description": "",
+                "ingredients": [
+                    "gemischter Salat",
+                    " Tomaten",
+                    " Zwiebeln",
+                    " Gurken",
+                    " Paprika",
+                    " Kidneybohnen",
+                    " Mais",
+                    " Alopinos"
+                ],
+                "price_raw": "5,50 €",
+                "price": 5.5
+            },
+            {
+                "name": "Rucola Salat Bar",
+                "description": "",
+                "ingredients": [
+                    "Käse",
+                    " Ei"
+                ],
+                "price_raw": "5,00 €",
+                "price": 5.0
+            },
+            {
+                "name": "Hawaii Salat",
+                "description": "",
+                "ingredients": [
+                    "klein gemischter Salat mit Schinken",
+                    " Ananas",
+                    " Oliven und Käse"
+                ],
+                "price_raw": "5,50 €",
+                "price": 5.5
+            },
+            {
+                "name": "Puten Salat",
+                "description": "",
+                "ingredients": [
+                    "klein gemischter Salat mit Putenfleisch"
+                ],
+                "price_raw": "5,00 €",
+                "price": 5.0
+            },
+            {
+                "name": "Lieferadresse",
+                "description": "",
+                "ingredients": [
+                    "groß Geben Sie Ihre Lieferadresse ein"
+                ],
+                "price_raw": "7,50 €",
+                "price": 7.5
+            },
+            {
+                "name": "Formfleisch-Truthahnschinken",
+                "description": "",
+                "ingredients": [
+                    "Extra Zutat für Salat"
+                ],
+                "price_raw": "0,50 €",
+                "price": 0.5
+            },
+            {
+                "name": "Käse",
+                "description": "",
+                "ingredients": [
+                    "Extra Zutat für Salat"
+                ],
+                "price_raw": "1,00 €",
+                "price": 1.0
+            },
+            {
+                "name": "Thunfisch",
+                "description": "",
+                "ingredients": [
+                    "Extra Zutat für Salat"
+                ],
+                "price_raw": "1,00 €",
+                "price": 1.0
+            },
+            {
+                "name": "Hühnerfleisch",
+                "description": "",
+                "ingredients": [
+                    "Extra Zutat für Salat"
+                ],
+                "price_raw": "1,00 €",
+                "price": 1.0
+            },
+            {
+                "name": "Brot",
+                "description": "",
+                "ingredients": [
+                    "Extra Zutat für Salat"
+                ],
+                "price_raw": "1,00 €",
+                "price": 1.0
+            }
+        ]
+    }
+]

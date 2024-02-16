@@ -1,0 +1,250 @@
+{
+    "categories": [
+        {
+            "name": "Bowls",
+            "category": "Bowls",
+            "items": [
+                {
+                    "name": "Chicken Bowl",
+                    "price": "13,90 €",
+                    "ingredients": "Wildreis, mariniertes Hähnchen, Salat, gegrillte Paprika, Guacamole, Cherrytomaten und Joghurt Minz Dressing",
+                    "description": ""
+                },
+                {
+                    "name": "Falafel Bowl",
+                    "price": "13,90 €",
+                    "ingredients": "Wildreis, Falafel, Salat, gegrillte Paprika, Fetakäse, Granatapfelkerne, Cherrytomaten, Guacamole, Joghurt-Minze-Sauce",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Salate",
+            "category": "Alle Salate werden mit buntem Salat, Gurken, Tomaten, Paprika, Mais und roten Zwiebeln zubereitet.",
+            "items": [
+                {
+                    "name": "Falafel Salat",
+                    "price": "10,90 €",
+                    "ingredients": "Falafel, gemischte Wildkräuter und Blattsalat, Tomaten, Gurken,Avocado & Brot",
+                    "description": "Wahl aus: mit Balsamico-Dressing, mit Dressing, hausgemacht, mit Honig-Senf-Dressing oder ohne Dressing."
+                },
+                {
+                    "name": "Gemischter Salat mit Hähnchenbruststreifen (groß)",
+                    "price": "11,90 €",
+                    "ingredients": "Hähnchenbrust, gemischte Wildkräuter und Blattsalat, Avocado, Parmesan, Tomaten, Gurken,Paprika, Nussmix und Brot",
+                    "description": "Wahl aus: mit Balsamico-Dressing, mit Dressing, hausgemacht, mit Honig-Senf-Dressing oder ohne Dressing."
+                },
+                {
+                    "name": "Beilagensalat (klein)",
+                    "price": "3,90 €",
+                    "ingredients": "mit Karottenstreifen",
+                    "description": "Wahl aus: mit Balsamico-Dressing, mit Dressing, hausgemacht, mit Honig-Senf-Dressing oder ohne Dressing."
+                }
+            ]
+        },
+        {
+            "name": "Burger",
+            "category": "Alle Burger werden mit 100% Rindfleisch (200g) aus der Region, Salat, frischen Tomaten, roten Zwiebeln und Gewürzgurken zubereitet.",
+            "items": [
+                {
+                    "name": "Classic Beef Hamburger",
+                    "price": "9,90 €",
+                    "ingredients": "mit hausgemachter Sauce",
+                    "description": "Wahl aus: mit Avocado, mit Bacon, mit Beef-Patty, mit Cheddar, mit Chicken-Patty und mehr."
+                },
+                {
+                    "name": "Classic Cheese Burger",
+                    "price": "9,90 €",
+                    "ingredients": "mit Cheddar und hausgemachter Sauce",
+                    "description": "Wahl aus: mit Avocado, mit Bacon, mit Beef-Patty, mit Cheddar, mit Chicken-Patty und mehr."
+                },
+                {
+                    "name": "Spicy Burger",
+                    "price": "9,90 €",
+                    "ingredients": "mit Jalapenos, Cheddar und Chilisauce",
+                    "description": "Wahl aus: mit Avocado, mit Bacon, mit Beef-Patty, mit Cheddar, mit Chicken-Patty und mehr."
+                }
+            ]
+        },
+        {
+            "name": "Burger Menü",
+            "category": "",
+            "items": [
+                {
+                    "name": "Classic Beef Hamburger Menü",
+                    "price": "13,70 €",
+                    "ingredients": "1 Classic Beef Hamburger 1 beilage nach Wahl",
+                    "description": "Wahl aus: mit Pommes frites, mit Cajun Pommes, mit Curly Fries, mit Süßkartoffel Pommes, mit Onion Bacon Pommes und mehr."
+                },
+                {
+                    "name": "Classic Cheese Burger Menü",
+                    "price": "13,70 €",
+                    "ingredients": "1 Classic Cheese Burger  1 Beilage nach Wahl",
+                    "description": "Wahl aus: mit Pommes frites, mit Cajun Pommes, mit Curly Fries, mit Süßkartoffel Pommes, mit Onion Bacon Pommes und mehr."
+                },
+                {
+                    "name": "Spicy Burger Menü",
+                    "price": "13,70 €",
+                    "ingredients": "1 Spicy Burger 1 Beilage nach Wahl",
+                    "description": "Wahl aus: mit Pommes frites, mit Cajun Pommes, mit Curly Fries, mit Süßkartoffel Pommes, mit Onion Bacon Pommes und mehr."
+                }
+            ]
+        },
+        {
+            "name": "Pizza, Ø 30cm",
+            "category": "Alle Pizzen werden mit Tomatensauce und Käse zubereitet.",
+            "items": [
+                {
+                    "name": "Pizza Margherita",
+                    "price": "8,90 €",
+                    "ingredients": "",
+                    "description": "Wahl aus: mit Bacon, mit Champignons, mit Jalapenos, mit Käse, extra, mit Mais und mehr."
+                },
+                {
+                    "name": "Pizza Salami",
+                    "price": "9,50 €",
+                    "ingredients": "",
+                    "description": "Wahl aus: mit Bacon, mit Champignons, mit Jalapenos, mit Käse, extra, mit Mais und mehr."
+                },
+                {
+                    "name": "Pizza Mista",
+                    "price": "9,90 €",
+                    "ingredients": "mit Salami, Schinken und Champignons",
+                    "description": "Wahl aus: mit Bacon, mit Champignons, mit Jalapenos, mit Käse, extra, mit Mais und mehr."
+                }
+            ]
+        },
+        {
+            "name": "Fritten",
+            "category": "",
+            "items": [
+                {
+                    "name": "Classic Fritten",
+                    "price": "3,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Cajun Fritten",
+                    "price": "3,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Süßkartoffel Fritten",
+                    "price": "4,90 €",
+                    "ingredients": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Snacks",
+            "category": "",
+            "items": [
+                {
+                    "name": "Mozzarellasticks (5 Stück)",
+                    "price": "5,90 €",
+                    "ingredients": "mit Sour Cream Dip",
+                    "description": ""
+                },
+                {
+                    "name": "Chicken Nuggets (7 Stück)",
+                    "price": "5,90 €",
+                    "ingredients": "mit Süß-Sauer-Sauce",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Dessert",
+            "category": "",
+            "items": [
+                {
+                    "name": "Churros",
+                    "price": "5,90 €",
+                    "ingredients": "mit Zimt-Zucker und Schokosauce",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "name": "Alkoholfreie Getränke",
+            "category": "",
+            "items": [
+                {
+                    "name": "Coca Cola light 0,5l",
+                    "price": "2,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Coca Cola 0,5l",
+                    "price": "2,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Coca Cola zero 0,5l",
+                    "price": "2,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Fanta 0,5l",
+                    "price": "2,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Sprite 0,5l",
+                    "price": "2,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Mezzo Mix 0,5l",
+                    "price": "2,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Powerade Mountain Blast 0,5l",
+                    "price": "2,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Powerade Wild Cherry 0,5l",
+                    "price": "2,90 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Vio still 0,5l",
+                    "price": "2,50 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Vio Sprudel 0,5l",
+                    "price": "2,50 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Fuze Tea Pfirsich 0,4l",
+                    "price": "2,50 €",
+                    "ingredients": "",
+                    "description": ""
+                },
+                {
+                    "name": "Fuze Tea Zitrone 0,4l",
+                    "price": "2,50 €",
+                    "ingredients": "",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
